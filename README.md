@@ -62,4 +62,4 @@ Project Documentation
 
 The complete Excel workbook can be viewed or downloaded here:
 
-[View Excel Workbook](https://docs.google.com/spreadsheets/d/1xf4DEM-HFFJE6AWThjjKKw1PefWdT3Af/edit?usp=sharing&ouid=108118286029311788649&rtpof=true&sd=true)
+[View Excel Workbook](https://drive.google.com/file/d/1xf4DEM-HFFJE6AWThjjKKw1PefWdT3Af/view?usp=sharing)
