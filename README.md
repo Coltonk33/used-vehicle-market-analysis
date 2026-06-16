@@ -60,6 +60,6 @@ Project Documentation
 
 ## Full Workbook
 
-The complete Excel workbook can be viewed or downloaded here:
+Due to file size limitations, the complete Excel workbook is available through Google Drive:
 
-[View Excel Workbook](https://drive.google.com/file/d/1xf4DEM-HFFJE6AWThjjKKw1PefWdT3Af/view?usp=sharing)
+[Download Excel Workbook](https://drive.google.com/file/d/1xf4DEM-HFFJE6AWThjjKKw1PefWdT3Af/view?usp=sharing)
