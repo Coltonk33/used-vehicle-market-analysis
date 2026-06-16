@@ -53,3 +53,7 @@ This project analyzes over 550,000 used vehicle sales records using Microsoft Ex
 
 Dashboard Screenshot
 Project Documentation
+
+## Dashboard Screenshot
+
+![Dashboard](Used%20Vehicle%20Market%20Analysis%20Dashboard%20(SCREENSHOT).png)
