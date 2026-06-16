@@ -57,3 +57,9 @@ Project Documentation
 ## Dashboard Screenshot
 
 ![Dashboard](Used%20Vehicle%20Market%20Analysis%20Dashboard%20(SCREENSHOT).png)
+
+## Full Workbook
+
+The complete Excel workbook can be viewed or downloaded here:
+
+[View Excel Workbook](https://docs.google.com/spreadsheets/d/1xf4DEM-HFFJE6AWThjjKKw1PefWdT3Af/edit?usp=sharing&ouid=108118286029311788649&rtpof=true&sd=true)
